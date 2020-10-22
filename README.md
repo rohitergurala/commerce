@@ -1,4 +1,3 @@
-# JHipster-generated Kubernetes configuration
 
 ## Preparation
 
